@@ -1,24 +1,8 @@
-# portfolio
+# KADEKAWA KOTARO PORTFOLIO
 
-## Project setup
-```
-npm install
-```
+## 概要
+就職活動用に制作したポートフォリオサイトです。<br>
+見やすさを重視して作りました。
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 使用した言語
+HTML,CSS,Javascript(Vue CLI)
