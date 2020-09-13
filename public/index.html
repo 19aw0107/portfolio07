@@ -6,6 +6,39 @@
     <meta name="viewport" content="width=device-width,initial-scale=1.0">
     <link rel="icon" href="<%= BASE_URL %>favicon.ico">
     <title><%= htmlWebpackPlugin.options.title %></title>
+    <!--就活用に公開している為、クローラーを拒否しています。-->
+    <meta name="robots" content="noindex">
+    <meta name="robots" content="nofollow">
+    <meta name=”robots” content=”noarchive”>
+    <meta name=”robots” content=”none”>
+    <!--font-->
+    <style>
+      @font-face {
+          font-family: 'NotoSansCJKjp';
+          font-style: normal;
+          font-weight: 500;
+          src: url('fonts/notosanscjkjp_medium.woff2')  format('woff2'),url('fonts/NotoSansCJKjp-Medium.woff') format('woff');
+          font-display: swap;
+      }
+      @font-face {
+          font-family: 'NotoSansCJKjp';
+          font-style: normal;
+          font-weight: 700;
+          src: url('fonts/notosanscjkjp_bold.woff2')  format('woff2'),url('fonts/notosanscjkjp_bold.woff') format('woff');
+          font-display: swap;
+
+      }
+      @font-face {
+          font-family: 'NotoSansCJKjp';
+          font-style: normal;
+          font-weight: 900;
+          src: url('fonts/notosanscjkjp_black.woff2')  format('woff2'),url('fonts/NotoSansCJKjp-Black.woff') format('woff');
+          font-display: swap;
+      }
+      html {
+          font-family: 'NotoSansCJKjp', "Hiragino Kaku Gothic ProN","ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, sans-serif;
+      }
+    </style>
   </head>
   <body>
     <noscript>

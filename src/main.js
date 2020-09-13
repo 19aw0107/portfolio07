@@ -5,6 +5,9 @@ import store from './store'
 
 Vue.config.productionTip = false
 
+import smoothScroll from 'vue-smoothscroll'
+Vue.use(smoothScroll)
+
 new Vue({
   router,
   store,
