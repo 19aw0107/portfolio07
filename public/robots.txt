@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 User-Agent:*
 User-agent: Megalodon
 Disallow: /
+=======
+User-Agent:*
+User-agent: Megalodon
+Disallow: /
+>>>>>>> 87760e7238fc516bc80404edb222c6ebaf6ac068
