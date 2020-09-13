@@ -1,13 +1,10 @@
 <template>
   <section>
     <header>
-      <Header/>
+      <HeaderW/>
     </header>
     <main>
-      <Pege1/>
-      <Pege2/>
-      <Pege3/>
-      <Pege4/>
+      <Pege2W/>
     </main>
     <footer>
       <Footer/>
@@ -17,22 +14,16 @@
 
 <script>
 // @ is an alias to /src
-import Header from '@/components/Header.vue'
+import HeaderW from '@/components/HeaderW.vue'
 import Footer from '@/components/Footer.vue'
-import Pege1 from '@/components/Pege1.vue'
-import Pege2 from '@/components/Pege2.vue'
-import Pege3 from '@/components/Pege3.vue'
-import Pege4 from '@/components/Pege4.vue'
+import Pege2W from '@/components/Pege2W.vue'
 
 export default {
   name: 'Home',
   components: {
-    Header,
+    HeaderW,
     Footer,
-    Pege1,
-    Pege2,
-    Pege3,
-    Pege4
+    Pege2W
   }
 }
 </script>
@@ -55,3 +46,4 @@ export default {
 }
 </script>
 -->
+
