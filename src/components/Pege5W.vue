@@ -64,6 +64,11 @@
             <p>githubを開く</p>
           </div>
         </a>
+        <a href="http://meganekun.xsrv.jp/portfolio05/" target="_blank" rel="noopener noreferrer">
+          <div class="works-btn">
+            <p>サイトを開く</p>
+          </div>
+        </a>
       </div>
     </div>
   </section>

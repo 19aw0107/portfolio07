@@ -16,7 +16,7 @@
         </p>
         <p class="pegew1-name">制作期間</p>
         <p class="pegew1-description">
-          2019年5月 コーディング<br>
+          2019年5月 ～ 6月  コーディング<br>
         </p>
         <p class="pegew1-name">担当した領域</p>
         <p class="pegew1-description">

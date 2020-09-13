@@ -16,7 +16,7 @@
         </p>
         <p class="pegew1-name">制作期間</p>
         <p class="pegew1-description">
-          2019年9月 コーディング<br>
+          2019年9月1日 ～ 10月10日 コーディング<br>
         </p>
         <p class="pegew1-name">担当した領域</p>
         <p class="pegew1-description">
@@ -59,6 +59,11 @@
         <a href="https://github.com/19aw0107/portfolio03" target="_blank" rel="noopener noreferrer">
           <div class="works-btn">
             <p>githubを開く</p>
+          </div>
+        </a>
+        <a href="http://meganekun.xsrv.jp/portfolio03/" target="_blank" rel="noopener noreferrer">
+          <div class="works-btn">
+            <p>サイトを開く</p>
           </div>
         </a>
       </div>
